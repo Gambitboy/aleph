@@ -16,13 +16,9 @@ export default function Home() {
       <p className="logo"><Logo /></p>
       <h1>Welcome to use <strong>Aleph.js</strong>!</h1>
       <p className="links">
-        <a href="https://alephjs.org" target="_blank">Website</a>
+        <a href="/about">About</a>
         <span></span>
-        <a href="https://alephjs.org/docs/get-started" target="_blank">Get Started</a>
-        <span></span>
-        <a href="https://alephjs.org/docs" target="_blank">Docs</a>
-        <span></span>
-        <a href="https://github.com/alephjs/aleph.js" target="_blank">Github</a>
+        <a href="/profile/me">Profile</a>
       </p>
       <div className="counter">
         <span>Counter:</span>
